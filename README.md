@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Tim 17 years old and this is my new GitHub profile <br><br>I'm a hetzner Konsole h Developer
+I'm Tim 17 years old and this is my new GitHub profile <br>
 
 
 ## 🌐 Socials:

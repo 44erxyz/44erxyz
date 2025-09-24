@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Tim 17 years old and this is my  GitHub profile <br>
+I'm Maxi 17 years old and this is my  GitHub profile <br>
 
 
 ## 🌐 Socials:

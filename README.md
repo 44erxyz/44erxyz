@@ -10,11 +10,12 @@ I'm Maxi 17 years old and this is my  GitHub profile <br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/44erxyz/44erxyz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/44erxyz/44erxyz/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/44erxyz/44erxyz/output/github-contribution-grid-snake.svg" />
   </picture>
 </div> 
+
 ![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=44erxyz&layout=compact&theme=radical)
 ![44erxyz GitHub Stats](https://github-readme-stats.vercel.app/api?username=44erxyz&show_icons=true&theme=radical)
 

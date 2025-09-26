@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: ![](https://komarev.com/ghpvc/?username=44erxyz&abbreviated=true)
 I'm Maxi 17 years old and this is my  GitHub profile <br>
 
 

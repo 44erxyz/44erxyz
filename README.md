@@ -1,3 +1,7 @@
+ <p align="center">
+      <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif">
+</p>
+
 # 💫 About Me: ![](https://komarev.com/ghpvc/?username=44erxyz&abbreviated=true)
 I'm Maxi, 17 years old, and I work for a German company called Hetzner as software Developer. We provide hosting solutions worldwide.<br>
 
@@ -22,6 +26,5 @@ I'm Maxi, 17 years old, and I work for a German company called Hetzner as softwa
 ---
 [![](https://visitcount.itsvg.in/api?id=44erxyz&icon=0&color=4)](https://visitcount.itsvg.in)
 
-![Banner](https://github.com/mhardik003/mhardik003)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

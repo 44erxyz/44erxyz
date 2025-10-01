@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me: ![](https://komarev.com/ghpvc/?username=44erxyz&abbreviated=true)
-I'm Maxi, 16 years old, and I work for a German company called Hetzner as software Developer. We provide hosting solutions worldwide.<br>
+My name is Maxi, I'm 16 years old, and I work as a software developer for a German Hosting company called Hetzner. We provide hosting solutions worldwide.<br>
 
 
 ## 🌐 Socials:

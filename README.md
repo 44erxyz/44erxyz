@@ -26,5 +26,5 @@ My name is Maxi, I'm 16 years old, and I work as a software developer for a Germ
 ---
 [![](https://visitcount.itsvg.in/api?id=44erxyz&icon=0&color=4)](https://visitcount.itsvg.in)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=44erxyz&theme=onedark)](https://github.com/44erxyz/github-profile-trophy)
 

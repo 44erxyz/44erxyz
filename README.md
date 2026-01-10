@@ -5,7 +5,6 @@
 # 💫 About Me:   ![](https://komarev.com/ghpvc/?username=44erxyz&abbreviated=true) ![hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 My name is Maxi, I'm 16 years old, and I work as a software developer for a German Hosting company.
 
-
 ## 🌐 Socials :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/44erxyz) 
 

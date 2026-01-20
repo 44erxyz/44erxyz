@@ -24,3 +24,12 @@ My name is Maxi, I'm 16 years old, and I work as a software developer for a Germ
 ---
 [![](https://visitcount.itsvg.in/api?id=44erxyz&icon=0&color=4)](https://visitcount.itsvg.in)
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/44erxyz"
+    width="600"
+    height="120"
+  />
+</a>
+

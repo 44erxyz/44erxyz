@@ -15,6 +15,7 @@ My name is Maxi, I'm 16 years old, and I work as a software developer for a Germ
 ![snake svg](https://raw.githubusercontent.com/44erxyz/44erxyz/output/github-contribution-grid-snake.svg)
 
 
+
 ![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=44erxyz&layout=compact&theme=radical)
 ![44erxyz GitHub Stats](https://github-readme-stats.vercel.app/api?username=44erxyz&show_icons=true&theme=radical)
 

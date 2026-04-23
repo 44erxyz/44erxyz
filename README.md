@@ -1,35 +1,27 @@
+# Maxi (44erxyz)
 
- <p align="center">
-      <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif">
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=44erxyz&abbreviated=true)](https://github.com/44erxyz)
 
-# 💫 About Me:   ![](https://komarev.com/ghpvc/?username=44erxyz&abbreviated=true) ![hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
-My name is Maxi, I'm 17 years old, and I work as a software developer for a German Hosting company.
+## About Me
+I’m **Maxi**, a software developer from Germany, currently working in the hosting industry.
+I focus on building reliable backend services, modern web applications, and scalable infrastructure.
 
-## 🌐 Socials :
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/44erxyz) 
+## Core Expertise
+- Backend development with **PHP**, **Node.js**, and **Python**
+- Frontend development with **Vue.js**, **JavaScript**, and **Vite**
+- Database design and operations with **MySQL**, **MariaDB**, **MongoDB**, **Redis**, and **SQLite**
+- Linux hosting environments, web servers, and deployment workflows
 
-# 💻 Tech Stack :
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## Tools & Platforms
+- Version control: **Git**, **GitHub**, **GitLab**
+- Web stack: **Apache**, **HTML5**
+- Design tools: **Figma**, **Adobe Creative Cloud**
 
-![snake svg](https://raw.githubusercontent.com/44erxyz/44erxyz/output/github-contribution-grid-snake.svg)
+## Current Focus
+- Improving software architecture and maintainability
+- Expanding cloud and DevOps expertise
+- Building production-ready full-stack projects
 
-
-![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=44erxyz&layout=compact&theme=radical)
-![44erxyz GitHub Stats](https://github-readme-stats.vercel.app/api?username=44erxyz&show_icons=true&theme=radical)
-
-# 📊 GitHub 
-![](https://nirzak-streak-stats.vercel.app/?user=44erxyz&theme=dark&hide_border=false)<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=44erxyz&icon=0&color=4)](https://visitcount.itsvg.in)
-
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/44erxyz"
-    width="600"
-    height="120"
-  />
-</a>
-
+## Contact
+- Discord: [44erxyz](https://discord.gg/44erxyz)
+- GitHub: [@44erxyz](https://github.com/44erxyz)

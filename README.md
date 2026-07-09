@@ -62,14 +62,7 @@
 
 # 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maximilianfeix&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianfeix&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=maximilianfeix&theme=radical&hide_border=true"/>
-</p>
+[![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=maximilianfeix&theme=github_dark&locale=en&hide=stars%2Cforks&show=reviews%2Cissues_closed&revert=true&hide_border=true&hide_stroke=true)](https://bit.ly/gh-readme-profile)
 
 ---
 

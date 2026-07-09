@@ -64,6 +64,8 @@
 
 [![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=maximilianfeix&theme=github_dark&locale=en&hide=stars%2Cforks&show=reviews%2Cissues_closed&revert=true&hide_border=true&hide_stroke=true)](https://bit.ly/gh-readme-profile)
 
+![maximilianfeix's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=maximilianfeix&type=contributions&theme=default)
+
 ---
 
 # 🐍 Contributions
